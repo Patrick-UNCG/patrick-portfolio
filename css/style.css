@@ -383,7 +383,6 @@ header {
 }
 
 .portfolio__img {
-    background: url("./img/gamequiz.png");
     background-size: cover;
     transition: 
         transform 750ms cubic-bezier(.5, 0, .5, 1),
@@ -476,4 +475,19 @@ header {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+.flower{
+    width: 200px;
+    height: 200px;
+}
+
+iframe{
+    display: block;
+    margin: 0 auto;
+}
+
+#cherish-photo{
+    width: 30%;
+    height: 50%;
 }
